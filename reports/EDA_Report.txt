@@ -1,0 +1,21 @@
+MUTUAL FUND ANALYTICS - EDA REPORT
+============================================================
+
+Total Mutual Funds : 40
+Total Fund Houses : 10
+Total Categories : 2
+Total Sub Categories : 12
+Average Expense Ratio : 1.24 %
+
+Top Performing Fund
+Scheme : ABSL Small Cap Fund - Regular - Growth
+5 Year Return : 23.8 %
+Fund House : Aditya Birla Sun Life MF
+
+Highest Portfolio Allocation Sector
+sector
+Banking       652.26
+IT            455.47
+Pharma        407.45
+Automobile    323.65
+Utilities     265.54
