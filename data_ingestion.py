@@ -40,3 +40,26 @@ print("\n")
 print("=" * 80)
 print("ALL FILES LOADED SUCCESSFULLY")
 print("=" * 80)
+print("\n")
+print("="*80)
+print("FUND MASTER EXPLORATION")
+print("="*80)
+
+fund_master = pd.read_csv("data/raw/01_fund_master.csv")
+
+print("\nUnique Fund Houses")
+print(fund_master["fund_house"].unique())
+
+print("\nUnique Categories")
+print(fund_master["category"].unique())
+
+print("\nUnique Sub Categories")
+print(fund_master["sub_category"].unique())
+
+print("\nUnique Risk Categories")
+print(fund_master["risk_category"].unique())
+
+print("\nTotal Fund Houses :", fund_master["fund_house"].nunique())
+print("Total Categories :", fund_master["category"].nunique())
+print("Total Sub Categories :", fund_master["sub_category"].nunique())
+print("Total Risk Categories :", fund_master["risk_category"].nunique())
