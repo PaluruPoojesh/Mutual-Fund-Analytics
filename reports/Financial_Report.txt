@@ -1,0 +1,22 @@
+FINANCIAL ANALYTICS REPORT
+============================================================
+
+Total Schemes : 40
+Average Alpha : 1.25
+Average Beta : 0.87
+Average Sharpe : 1.36
+Average Expense Ratio : 1.24
+
+Top 10 Performing Funds
+
+                                       scheme_name  return_5yr_pct  alpha  beta
+            ABSL Small Cap Fund - Regular - Growth           23.80   1.84  0.97
+            Axis Small Cap Fund - Regular - Growth           22.62   0.51  1.00
+    Nippon India Small Cap Fund - Regular - Growth           21.88   0.80  1.03
+         SBI Small Cap Fund - Direct Plan - Growth           21.82   1.13  1.04
+        SBI Small Cap Fund - Regular Plan - Growth           20.67   1.23  0.89
+             DSP Small Cap Fund - Regular - Growth           20.61   0.69  0.98
+                DSP Midcap Fund - Regular - Growth           19.00   1.02  0.98
+               Axis Midcap Fund - Regular - Growth           18.94   1.42  1.00
+     Kotak Emerging Equity Fund - Regular - Growth           17.75   1.91  1.00
+HDFC Mid-Cap Opportunities Fund - Regular - Growth           17.69   0.95  0.91
